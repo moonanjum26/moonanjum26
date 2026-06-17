@@ -26,7 +26,6 @@ I build scalable ETL systems, lakehouse architectures, and serverless pipelines 
 **Languages & Databases**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Redshift%20%7C%20Athena%20%7C%20MySQL-4169E1)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?logo=apachecassandra&logoColor=white)
 
 ---
 
