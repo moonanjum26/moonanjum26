@@ -1,6 +1,6 @@
 # Hi, I'm Mahwish 👋
 
-**Data Engineer** with 3.5 years of experience designing and delivering cloud-native data pipelines on AWS.  
+**Data Engineer** with 3.5 years of experience designing and delivering cloud-native data pipelines on AWS/Databricks.  
 I build scalable ETL systems, lakehouse architectures, and serverless pipelines — with a focus on performance, cost efficiency, and clean infrastructure-as-code.
 
 - 🚀 Reduced Athena query costs by **60%** via columnar Parquet optimization
